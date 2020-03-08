@@ -25,3 +25,4 @@ devel_*
 eggs-custom/
 script/
 .mr.developer.cfg
+.vscode
